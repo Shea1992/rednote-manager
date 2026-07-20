@@ -1,0 +1,6 @@
+{
+  "name": "小红书多矩阵运营系统",
+  "description": "一个支持多手机终端监控与网页管理后台联动的小红书多矩阵运营方案系统。支持手机小红书评论自动监控、上报、网页管理后台自动/AI知识库回复下发、手机模拟操作回复等完整链路。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
